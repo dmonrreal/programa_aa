@@ -1,0 +1,169 @@
+body{
+	background-color: #7C9DAC;
+}
+
+.body_info_huesped{
+
+	display: flex;
+	
+
+}
+
+h1{
+	font-size: 30px;
+	margin:0;
+	display:inline;
+}
+
+
+.usuario a{
+	text-decoration: none;
+	margin-bottom: 0;
+}
+
+.info_huesped{
+	width: 75%;
+	margin: 0 30px;
+	background-color: white;
+	
+}
+
+.menu_huesped{
+width: 25%;
+margin-right: 30px;
+background-color: white
+
+}
+
+.foto_huesped{
+	margin: 10px;
+	width: 200px;
+	height:200px;
+	border-radius: 100px;
+	border:6px solid #7C9DAC;
+}
+
+
+.top_info{
+	display: flex;
+	flex-flow: column;
+	border-bottom: 30px solid  #7C9DAC;
+	background:linear-gradient(#7C9DAC,rgba(255,255,255,1));
+}
+
+
+.display_huesped {
+	display: flex;
+	list-style: none;
+	font-size: 20px;
+
+}
+
+.estatus{
+}
+
+
+.foto_estatus{
+
+	display: flex;
+
+
+}
+
+li{
+margin: 10px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+
+}
+
+ul{
+	-webkit-padding-start: 0px;
+	display: inline;
+}
+
+
+.logo_rebace{
+	margin: 2px 0 0 20px;
+}
+
+.foto_circular{
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+	/*border:15px solid colSor:*/
+
+	border:1px solid #666;
+}
+
+.usuario{
+	
+margin: 10px 25px 0px 0 ;
+
+}
+
+
+header{
+	display: flex;
+	justify-content: space-between;
+	background:linear-gradient(rgba(255,255,255,1),#7C9DAC);
+	margin: 30px;
+	align-items: flex-end;	
+}
+
+li h4{
+	margin:0; 
+	
+}
+
+.signos_vitales{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	margin-bottom: 8px;
+}
+
+.signos_vitales h3{
+	margin:0;
+}
+
+
+.avisos{
+	margin: 100px 25px 10px 0 ;
+
+}
+
+.casos{
+	margin: 100px 25px 10px 0 ;
+}
+
+.datos_sv{
+	display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+
+.datos_sv h3{
+	margin:0;
+	color:#7C9DAC;
+}
+
+
+.datos_sv h2{
+
+	color: green;
+	margin:0;
+}
+
+.nombre_huesped{
+	
+}
+
+.menu_burbuja{
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}

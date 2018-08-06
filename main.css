@@ -1,0 +1,97 @@
+
+.body_login{
+	background-color: white;
+	width: 500px ;
+	margin: 20px auto; 
+}
+
+
+header{
+	display: flex;
+	justify-content: space-between;	
+}
+
+	
+.redes{
+margin:2px;
+}
+
+
+.raya{
+height: 150px;
+
+}
+.titulo {
+	margin: 0 4px 10px 6px;
+	text-align: ;
+	font-size: 25px;
+	width: 500px;
+	margin: 30px 0px 0px 20px;
+}
+
+label{
+	display:block;
+	margin-top: 7px;
+}
+
+.entrar{
+display: flex;
+}
+
+input{
+	margin-bottom: 0px;
+}
+
+h6{
+	color:black;
+	margin:0;	
+}
+
+.columna{
+margin:5px 20px 8px 20px; 
+width: 250px;
+
+
+}
+
+.muestra{
+	display: flex;
+	align-items:flex-end;
+
+}
+
+
+.footer{
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
+}
+
+button{
+
+	margin-top: 15px;
+	padding: 9px;
+	background-color: green;
+	color:white;
+}
+
+a{
+	font-size: 13px;
+	text-decoration: none;
+	margin:0;
+}
+
+.blanco{
+	color:white;
+}
+
+
+p{
+	margin: 0;
+}
+
+
+.baja{
+
+margin-top:15px;
+}
